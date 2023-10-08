@@ -1,2 +1,3 @@
 # Betsy-Webshop
-ORM &amp; PeeWee assignment Winc- academy 
+![Alt Text](betsy.jpg)
+
